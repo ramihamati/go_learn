@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="3c28ac0e-8557-4566-897e-a8134e34c2ce" />
+    <targets>
+      <target name="WSL - Ubuntu-22.04" type="wsl" uuid="3c28ac0e-8557-4566-897e-a8134e34c2ce">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-22.04" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/c/Program Files/JetBrains/GoLand 2023.3.4/jbr/bin&#10;, stderr=}/blockchain_tensor" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
